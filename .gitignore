@@ -1,0 +1,20 @@
+# FFDec decompiled SWF media/asset dumps (not required to run game or rebuild netplay patch)
+/buttons/
+/fonts/
+/frames/
+/images/
+/morphshapes/
+/movies/
+/shapes/
+/sounds/
+/sprites/
+/symbolClass/
+/texts/
+/game.swf
+
+# Runtime logs and temporary files
+bvn-netplay/server/*.log
+bvn-netplay/client/launch.test.swf
+node_modules/
+.DS_Store
+Thumbs.db

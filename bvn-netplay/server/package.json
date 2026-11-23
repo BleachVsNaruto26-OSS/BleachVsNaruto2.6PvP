@@ -1,0 +1,13 @@
+{
+  "name": "bvn26-netplay-server",
+  "version": "1.0.0",
+  "description": "Lightweight TCP Lockstep Relay Server for Bleach vs Naruto 2.6 (LAN / Virtual VPN)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
